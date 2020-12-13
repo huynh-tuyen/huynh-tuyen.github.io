@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Home</title>
-    <link>https://tuyenhuynhlt.github.io/page/</link>
+    <link>https://huynh-tuyen.github.io/page/</link>
     <description>Recent content in Pages on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>tuyen.huynh.lt@gmail.com (Tuyen Huynh)</managingEditor>
-    <webMaster>tuyen.huynh.lt@gmail.com (Tuyen Huynh)</webMaster><atom:link href="https://tuyenhuynhlt.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>tuyen.huynh.lt@gmail.com (Tuyen Huynh)</webMaster><atom:link href="https://huynh-tuyen.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://tuyenhuynhlt.github.io/page/about/</link>
+      <link>https://huynh-tuyen.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>tuyen.huynh.lt@gmail.com (Tuyen Huynh)</author>
-      <guid>https://tuyenhuynhlt.github.io/page/about/</guid>
+      <guid>https://huynh-tuyen.github.io/page/about/</guid>
       <description></description>
     </item>
     
